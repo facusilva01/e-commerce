@@ -1,0 +1,50 @@
+[
+    {
+        "nombre":"dune",
+        "precio":1900,
+        "autor":"Frank Herbert",
+        "img":"img/dune.jpg" 
+    },
+    {
+        "nombre":"Demon",
+        "precio":1220,
+        "autor":"Matt Wesolowski",
+        "img":"img/demon.jpg" 
+    },
+    {
+        "nombre":"1979",
+        "precio":1500,
+        "autor":"Val McDermid",
+        "img":"img/1979.jpg" 
+    },
+    {
+        "nombre":"Day Zero",
+        "precio":1350,
+        "autor":"C. Robert Cargil",
+        "img":"img/day-zero.jpg" 
+    },
+    {
+        "nombre":"iGen",
+        "precio":890,
+        "autor":"Jean M. Twenge",
+        "img":"img/igen.jpg" 
+    },
+    {
+        "nombre":"Rayuela",
+        "precio":2000,
+        "autor":"Julio Cortazar",
+        "img":"img/rayuela.jpg" 
+    },
+    {
+        "nombre":"They",
+        "precio":1200,
+        "autor":"Kay Dick",
+        "img":"img/they.jpg" 
+    },
+    {
+        "nombre":"Verity",
+        "precio":1670,
+        "autor":"Collen Hoover",
+        "img":"img/verity.jpg" 
+    }
+]
